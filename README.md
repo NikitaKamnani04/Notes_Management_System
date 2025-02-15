@@ -26,6 +26,9 @@ Enhances user experience by providing an interactive way to organize notes.
 
 
 Technology Stack:
+
 Frontend: Angular 14, HTML, CSS
+
 Backend & Database: Firebase
+
 Libraries & Tools: Angular DragDropModule (for drag-and-drop functionality)
