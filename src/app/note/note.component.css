@@ -1,0 +1,21 @@
+#sidebar{
+    position: fixed;
+    /* top: 0; */
+    left: 0;
+    height: 100%;
+    width: 200px;
+    /* background-color: #11101d; */
+    background-color: black;
+    /* padding: 6px 14px; */
+    padding-top: 1rem;
+    /* z-index: 99; */
+    transition: all 0.5s ease;
+  }
+
+  .navbar{
+    position: fixed;
+    top: 0;
+    /* left: 0; */
+    width: 100%;
+    z-index: 999;
+  }
